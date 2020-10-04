@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  background-repeat: no-repeat;
+  background-size: 2000px 1000px;
+}
+
+body span {
+  font-family: 'Lato', sans-serif;
+}
+
+body #task-title {
+  font-family: 'Lato', sans-serif;
+}
+
+body .container {
+  padding: 50px;
+}
